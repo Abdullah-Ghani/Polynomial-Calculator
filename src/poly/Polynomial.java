@@ -197,6 +197,7 @@ public class Polynomial {
 			X+=b;
 
 		}
+		System.out.println("check");
 		return X;
 	}
 
